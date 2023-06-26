@@ -1,0 +1,7 @@
+C:\Users\wwwng\source\repos\Example\Example\bin\Debug\Example.exe.config
+C:\Users\wwwng\source\repos\Example\Example\bin\Debug\Example.exe
+C:\Users\wwwng\source\repos\Example\Example\bin\Debug\Example.pdb
+C:\Users\wwwng\source\repos\Example\Example\obj\Debug\Example.csproj.AssemblyReference.cache
+C:\Users\wwwng\source\repos\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\wwwng\source\repos\Example\Example\obj\Debug\Example.exe
+C:\Users\wwwng\source\repos\Example\Example\obj\Debug\Example.pdb
